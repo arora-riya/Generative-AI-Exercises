@@ -6,4 +6,4 @@
 - `variational_autoencoder_checkpoint.pth` contains saved checkpoint after 10 epochs.
 
 #### `gan.ipynb`
-- Implementation of standard GAN on MNIST data. (in progress)
+- Implementation of standard GAN on MNIST data.
