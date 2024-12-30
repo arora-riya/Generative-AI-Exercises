@@ -5,5 +5,5 @@
 - Making images smile, using both original image space and latent space arithmetic.
 - `variational_autoencoder_checkpoint.pth` contains saved checkpoint after 10 epochs.
 
-#### `gan.ipynb`
-- Implementation of standard GAN on MNIST data.
+#### `gan_mnist.ipynb`
+- Implementation of standard GAN on MNIST data. Used simple architecture and low learning rate for the discriminator to prevent it from becoming too good for the generator to learn.
